@@ -1,16 +1,5 @@
 # CALCULATOR-PROJECT
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
-## Introduction
 This is a simple calculator application built using HTML, CSS, and JavaScript. The project demonstrates basic arithmetic operations including addition, subtraction, multiplication, square, and division.
 
 ## Features
